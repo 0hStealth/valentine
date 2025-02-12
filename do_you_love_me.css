@@ -1,4 +1,4 @@
-/**Tiktok meowish**/
+
 
 * {
   padding: 0;
@@ -9,7 +9,7 @@ body {
   display: grid;
   justify-content: center;
   align-items: center;
-  background-color: #df97df;
+  background-color: #f5b5f5;
   font-family: "Quicksand", sans-serif;
 }
 .container {
@@ -94,7 +94,6 @@ body {
   text-align: center;
 }
 
-/* heart loader */
 .cssload-main {
   display: none;
   position: absolute;
